@@ -7,4 +7,8 @@ public class PekingDuck extends Duck {
     void clean(Animal animal){
         System.out.println("I'm not allowed to clean");
     }
+
+    void beCrispy(){
+        System.out.println("I'm crispy");
+    }
 }
