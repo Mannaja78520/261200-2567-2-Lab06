@@ -1,4 +1,4 @@
-public class Main {
+public class Lec06 {
     public static void main(String[] args){
         Cow wagyu = new Cow();
         Duck donald = new Duck("โดนัลด์");
